@@ -1,0 +1,7 @@
+# Good Catch Stats player data
+LuckyTracker_counts.txt
+GoodCatchStats_counts.txt
+
+# UE4SS logs and crash files
+*.log
+*.dmp
